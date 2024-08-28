@@ -1,0 +1,4 @@
+# git+https://github.com/shubham-goel/4D-Humans
+git+https://github.com/facebookresearch/detectron2
+pyrender
+yacs
