@@ -32,6 +32,7 @@ detectron
 ```
 
 | Model | Link |
+|------------|-----------|
 | Detectron | [link](https://dl.fbaipublicfiles.com/detectron2/ViTDet/COCO/cascade_mask_rcnn_vitdet_h/f328730692/model_final_f05665.pkl) |
 | SMPL (all files in smpl dir) | [link](https://smplify.is.tue.mpg.de/) |
 | HMR | [link](https://people.eecs.berkeley.edu/~jathushan/projects/4dhumans/hmr2a_model.tar.gz) |
