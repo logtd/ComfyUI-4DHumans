@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-4dhumans"
+description = "ComfyUI nodes to use [a/4D-Humans](ComfyUI nodes to use 4D-Humans)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["# git+https://github.com/shubham-goel/4D-Humans", "git+https://github.com/facebookresearch/detectron2", "pyrender", "yacs"]
+
+[project.urls]
+Repository = "https://github.com/logtd/ComfyUI-4DHumans"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-4DHumans"
+Icon = ""
